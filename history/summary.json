@@ -4,10 +4,10 @@
     "url": "$FOTT_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "the-library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1971,
@@ -15,16 +15,18 @@
     "timeWeek": 2499,
     "timeMonth": 1971,
     "timeYear": 1971,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 1
+    }
   },
   {
     "name": "GitLab",
     "url": "$GITLAB_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 537,
     "timeMonth": 560,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-24": 0
+    }
   }
 ]
