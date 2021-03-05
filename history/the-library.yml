@@ -1,7 +1,7 @@
 url: $FOTT_SITE
-status: down
-code: 502
-responseTime: 380
-lastUpdated: 2021-03-05T19:47:11.069Z
+status: up
+code: 200
+responseTime: 851
+lastUpdated: 2021-03-05T20:16:42.205Z
 startTime: Thu Jan 14 2021 05:46:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
