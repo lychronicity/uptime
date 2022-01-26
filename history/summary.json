@@ -6,14 +6,14 @@
     "slug": "git-lab",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "26.10%",
     "uptimeMonth": "82.99%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.42%",
     "time": 649,
-    "timeDay": 537,
-    "timeWeek": 570,
-    "timeMonth": 603,
+    "timeDay": 579,
+    "timeWeek": 594,
+    "timeMonth": 597,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2022-01-24": 431,
@@ -28,8 +28,7 @@
       "2021-06-02": 144,
       "2021-06-01": 563,
       "2021-03-05": 33,
-      "2021-03-04": 25,
-      "2021-01-25": 474
+      "2021-03-04": 25
     }
   },
   {
@@ -38,15 +37,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gallery",
     "status": "up",
-    "uptime": "75.09%",
-    "uptimeDay": "1.33%",
+    "uptime": "75.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "26.29%",
     "uptimeMonth": "83.04%",
-    "uptimeYear": "75.09%",
+    "uptimeYear": "75.22%",
     "time": 703,
-    "timeDay": 838,
-    "timeWeek": 815,
-    "timeMonth": 754,
+    "timeDay": 760,
+    "timeWeek": 765,
+    "timeMonth": 753,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2022-01-24": 412,
@@ -146,16 +145,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "the-library",
     "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "1.33%",
+    "uptime": "97.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "26.30%",
     "uptimeMonth": "83.04%",
-    "uptimeYear": "97.89%",
-    "time": 902,
-    "timeDay": 944,
-    "timeWeek": 789,
-    "timeMonth": 685,
-    "timeYear": 869,
+    "uptimeYear": "98.16%",
+    "time": 901,
+    "timeDay": 734,
+    "timeWeek": 788,
+    "timeMonth": 686,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2022-01-24": 412,
       "2022-01-23": 1440,
@@ -168,8 +167,7 @@
       "2021-06-02": 258,
       "2021-06-01": 764,
       "2021-03-05": 777,
-      "2021-03-04": 338,
-      "2021-01-25": 475
+      "2021-03-04": 338
     }
   }
 ]
