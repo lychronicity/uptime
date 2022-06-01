@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.40%",
     "time": 639,
-    "timeDay": 725,
-    "timeWeek": 603,
-    "timeMonth": 591,
+    "timeDay": 574,
+    "timeWeek": 607,
+    "timeMonth": 588,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2022-05-04": 21,
@@ -31,8 +31,7 @@
       "2021-12-18": 37,
       "2021-08-07": 23,
       "2021-07-05": 20,
-      "2021-06-02": 144,
-      "2021-06-01": 563
+      "2021-06-02": 144
     }
   },
   {
@@ -41,14 +40,14 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gallery",
     "status": "up",
-    "uptime": "81.89%",
+    "uptime": "81.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "85.12%",
+    "uptimeYear": "85.40%",
     "time": 721,
-    "timeDay": 795,
-    "timeWeek": 740,
+    "timeDay": 743,
+    "timeWeek": 751,
     "timeMonth": 748,
     "timeYear": 743,
     "dailyMinutesDown": {
@@ -113,8 +112,7 @@
       "2021-06-05": 1440,
       "2021-06-04": 1440,
       "2021-06-03": 1440,
-      "2021-06-02": 1440,
-      "2021-06-01": 1440
+      "2021-06-02": 1440
     }
   },
   {
@@ -123,15 +121,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "the-library",
     "status": "up",
-    "uptime": "94.66%",
+    "uptime": "94.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.15%",
-    "time": 983,
-    "timeDay": 754,
-    "timeWeek": 735,
-    "timeMonth": 729,
+    "time": 982,
+    "timeDay": 629,
+    "timeWeek": 726,
+    "timeMonth": 725,
     "timeYear": 946,
     "dailyMinutesDown": {
       "2022-04-05": 213,
@@ -165,8 +163,7 @@
       "2022-01-19": 1258,
       "2021-12-18": 36,
       "2021-12-14": 44,
-      "2021-06-02": 258,
-      "2021-06-01": 764
+      "2021-06-02": 258
     }
   }
 ]
