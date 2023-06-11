@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.60%",
+    "uptimeYear": "95.61%",
     "time": 623,
-    "timeDay": 737,
-    "timeWeek": 619,
-    "timeMonth": 625,
-    "timeYear": 632,
+    "timeDay": 668,
+    "timeWeek": 618,
+    "timeMonth": 624,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2023-04-24": 18,
       "2023-01-10": 94,
@@ -39,8 +39,7 @@
       "2022-06-15": 394,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 32
+      "2022-06-12": 1440
     }
   },
   {
@@ -49,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gallery",
     "status": "up",
-    "uptime": "86.62%",
+    "uptime": "86.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.25%",
     "time": 860,
-    "timeDay": 815,
-    "timeWeek": 799,
-    "timeMonth": 797,
+    "timeDay": 774,
+    "timeWeek": 784,
+    "timeMonth": 796,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2023-01-10": 124,
@@ -100,8 +99,7 @@
       "2022-06-16": 28,
       "2022-06-14": 297,
       "2022-06-13": 1002,
-      "2022-06-12": 1192,
-      "2022-06-11": 197
+      "2022-06-12": 1192
     }
   },
   {
@@ -110,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-library",
     "status": "up",
-    "uptime": "79.50%",
+    "uptime": "79.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "58.08%",
-    "time": 1224,
-    "timeDay": 1170,
-    "timeWeek": 1158,
-    "timeMonth": 1151,
-    "timeYear": 1186,
+    "time": 1225,
+    "timeDay": 1206,
+    "timeWeek": 1150,
+    "timeMonth": 1152,
+    "timeYear": 1189,
     "dailyMinutesDown": {
       "2023-01-10": 124,
       "2023-01-09": 34,
@@ -279,8 +277,7 @@
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
-      "2022-06-12": 1440,
-      "2022-06-11": 31
+      "2022-06-12": 1440
     }
   }
 ]
